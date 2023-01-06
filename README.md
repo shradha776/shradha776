@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXsCjl7QoITB5uZ5JPvLHLgb8oMmpvQYoaQZbLmtVw&s)](https://shradha776.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://shradha776.io)
 
 
 <h1 align="center">Hi 👋, I'm Shradha Wankhede</h1>
