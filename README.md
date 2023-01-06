@@ -1,4 +1,5 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F68097599%2FBanner-Images-for-Coding-Challenges&psig=AOvVaw2CFL4XBK7gpXNJLT0FdrRg&ust=1673112012657000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLDQhou6s_wCFQAAAAAdAAAAABAE)](https://shradha776.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXsCjl7QoITB5uZ5JPvLHLgb8oMmpvQYoaQZbLmtVw&s)](https://shradha776.io)
+
 
 <h1 align="center">Hi 👋, I'm Shradha Wankhede</h1>
 <h3 align="center">A career oriented Software Engineer from India👩‍💻🙏</h3>
