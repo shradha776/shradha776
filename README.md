@@ -3,6 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Shradha Wankhede</h1>
 <h3 align="center">A career oriented Software Engineer from India👩‍💻🙏</h3>
+<br>
+<br>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/girl-with-laptop-is-working-office-girl-is-browsing-internet-conversations_647843-112.jpg?w=996"/>
 
