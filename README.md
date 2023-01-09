@@ -11,7 +11,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shradha776&label=Profile%20views&color=0e75b6&style=flat" alt="shradha776" /> </p>
 
-- 🌱 I’m currently learning **: Diploma in Big Data Analytics(CDAC)**
+- 🌱 I’m currently learning :
+**Diploma in Big Data Analytics(CDAC)**
 
 - 📫 How to reach me **: shradhawankhede91@gmail.com**
 
